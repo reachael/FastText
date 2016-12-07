@@ -1,0 +1,14 @@
+import os
+class MySentences(object):
+    def __init__(self,dirname):
+        self.dirname=dirname
+
+    def __iter__(self):
+        for fname in os.listdir(self.dirname):
+            print fname
+            #for line in open(os.path.join(self.dirname,fname)):
+ #               yield line.split()
+
+
+dirname='/Users/ddong/Documents/training_entity_type_v4_wiki/'
+MySentences(dirname)
