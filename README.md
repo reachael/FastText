@@ -1,4 +1,8 @@
-
-| Purpose		| Steps    | Expected Results   | Actual Results   | Result (P/F)| Notes    |
+| Purpose		| Steps    | Expected Results | Actual Results | Result (P/F)| Notes |
 | :----------| :------- | :----------------| :--------------| :-----------| :------| 
-| Test app	| Open App 	| App opened | App opened | P | |
+| Test app works or not	| Open App 	| App opened | App opened | P | |
+| Test manager UI	| Choose manager mode	| Manager UI | Manager UI   | P  | |
+| 	|  	|  |  |  | |
+| 	|  	|  |  |  | |
+| 	|  	|  |  |  | |
+
