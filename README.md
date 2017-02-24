@@ -1,3 +1,4 @@
+###Manager UI
 | Purpose		| Steps    | Expected Results | Actual Results | Result (P/F)| Notes |
 | :----------| :------- | :----------------| :--------------| :-----------| :------| 
 | Test app works	| Open App 	| App opened | App opened | P | |
@@ -19,6 +20,10 @@
 | View totals for every player in the system | Click view totals | A list sorted by totals showed | A list sorted by totals showed | P | When there is no tournament onging |  
 | View a list of a player’s individual prizes | Select a player from the list | A list of the player's individual prizes showed | A list of the player's individual prizes showed | P | When there is no tournament onging |  
 | View past house profits and the total |  Click view profit history | A list of past house profits in chronological order and the total showed | A list of past house profits in chronological order and the total showed| P | When there is no tournament onging |  
+
+###Player UI
+| Purpose		| Steps    | Expected Results | Actual Results | Result (P/F)| Notes |
+| :----------| :------- | :----------------| :--------------| :-----------| :------|
 | Test player UI	| Choose player mode	| Player UI | Player UI  | P  | |
 | View totals for every player in the system | N/A | A list sorted by totals | N/A | P | When there is no tournament onging | 
 | View the palyers match list and the status fo the match | N/A | A list of match and the status | N/A | P | When there is tournament onging |  
